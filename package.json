@@ -1,6 +1,7 @@
 {
   "name": "masfikur",
   "version": "0.1.0",
+  "homepage": "https://mdmasfikurrahman.github.io/masfikur",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
